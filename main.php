@@ -6,7 +6,7 @@ $robot = new RobotClient('https://api.hetzner.cloud/v1', 'PUT_YOUR_ACCESS_TOKEN_
 
 $results = $robot->GetDatacenters('2');
 
-if($results['response_code'] == METHOD_RETURN_CODE)
+if($results['response_code'] == METHOD_RETURN_CODE_SUCH_AS_201)
 {
   print_r($results);
 }
