@@ -5,7 +5,7 @@ This is the PHP Client for Hetzner Cloud API (Developed from Hetzner Root Server
 you can Download PHP Client for Hetzner Root Servers from (https://robot.your-server.de/doc/webservice/en.html).
 
 # Supported Functions
-```php
+`php
 /* SERVERS */
 GetServers($id = null)
 CreateServer($name, $serverType, $datacenter = null, $location = null, $startAfterCreate = true, $image, $sshKeys = null, $userData = null)
@@ -25,7 +25,7 @@ GetLocations($id = null)
 
 /* DATA CENTERS */
 GetDatacenters($id = null)
-```
+`
 
 # Usage
 just you need to Run main.php and set this Parameters: (ACCESS TOKEN and API URL). Enjoy !
