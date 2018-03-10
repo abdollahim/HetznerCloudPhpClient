@@ -1,7 +1,7 @@
 # HetznerCloudPhpClient
 This is the PHP Client for Hetzner Cloud API (Developed from Hetzner Root Servers PHP Client API). with this Codes, you can Connect to your Hetzner Cloud Projects and Do Actions on your Servers. also you need Different ACCESS TOKENS for any Hetzner Cloud Projects.
 
-# Hetzner Root Servers PHP Client API
+# Hetzner Root Servers PHP Client
 you can Download Original PHP Client for Hetzner Root Servers from (https://robot.your-server.de/doc/webservice/en.html).
 
 # Supported Functions
