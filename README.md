@@ -31,3 +31,6 @@ GetDatacenters($id = null)
 just you need to Run main.php and set this Parameters: (ACCESS TOKEN and API URL). Enjoy !
 <br/>
 Please send your comments for ipmrovements.
+
+# Updates
+I will add other Functions to this Code Continuously...
